@@ -67,4 +67,4 @@ O dataset utilizado é o **Penguin Species Dataset** do Kaggle:
 ## 🔹 Como Rodar o Projeto
 1. Clone o repositório:
 ```bash
-git clone <seu-repo-url>
+git clone https://github.com/DannelsCS/penguin-classification.git
